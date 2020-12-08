@@ -39,12 +39,12 @@ h5,
 h6 {
     font-family: 'Open Sans', sans-serif;
     font-weight: 700;
-    color: #000;
+    color: rgba(97, 19, 19, 0.705);
     line-height: 1.3;
 }
 
 p {
-    color: rgba(0, 0, 0, 0.8);
+    color: rgba(97, 19, 19, 0.705);
     font-size: 16px;
     line-height: 1.9;
     font-weight: 400;
@@ -477,7 +477,7 @@ li {
     height: 100%;
     top: 0;
     left: 0;
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(97, 19, 19, 0.705);
     z-index: -1;
 }
 
@@ -596,7 +596,7 @@ li {
 }
 
 .sticky .header_area {
-    background-color: rgba(0, 0, 0, 0.85);
+    background-color: rgba(255, 153, 153, 0.85);
     height: 70px;
     z-index: 9999;
 }
@@ -667,7 +667,7 @@ li {
 .single-hero-slides:after {
     position: absolute;
     width: calc(50% - 112px);
-    background-color: rgba(0, 0, 0, 0.6);
+    background-color:  rgba(255, 153, 153, 0.85);
     height: 100%;
     top: 0;
     left: 0;
@@ -736,7 +736,7 @@ li {
 }
 
 .caviar-hero-area .owl-next:hover {
-    background-color: #ff0000;
+    background-color: #fff;
     color: #fff;
 }
 
@@ -788,7 +788,7 @@ li {
     font-size: 12px;
     text-transform: uppercase;
     letter-spacing: 2px;
-    color: #ff0000;
+    color: #fff;
     font-family: 'Work Sans', sans-serif;
     font-weight: 600;
     margin-bottom: 30px;
@@ -898,11 +898,11 @@ li {
 }
 
 .caviar-single-dish:hover .dish-info .dish-name {
-    color: #ff0000;
+    color: ##fff;
 }
 
 .caviar-single-dish:hover .dish-info .dish-price {
-    background-color: #ff0000;
+    background-color: #fff;
 }
 
 .caviar-single-dish:after {
@@ -1119,7 +1119,7 @@ li {
 }
 
 .portfolio-menu button.active {
-    color: #ff0000;
+    color: #fff;
 }
 
 .single_menu_item {
@@ -1144,7 +1144,7 @@ li {
 }
 
 .dish-value > h3 {
-    color: #ff0000;
+    color: #fff;
     font-size: 30px;
     margin-bottom: 0;
 }
@@ -1235,7 +1235,7 @@ li {
     text-transform: uppercase;
     font-weight: 600;
     letter-spacing: 2px;
-    color: #ff0000;
+    color: #fff;
     margin-bottom: 40px;
     font-family: 'Work Sans', sans-serif;
 }
@@ -1249,7 +1249,7 @@ li {
 }
 
 .regular-page-content .post-title > a {
-    color: #ff0000;
+    color: #fff;
     font-size: 12px;
     text-transform: uppercase;
     letter-spacing: 2px;
